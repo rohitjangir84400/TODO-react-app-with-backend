@@ -1,0 +1,5 @@
+--> create a database in the mysql server.
+--> check the config file that it contain all the correct information about the server.
+--> cd backend
+-->npm i -to install all dependencies.
+--> nodemon --command to start the server.

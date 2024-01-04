@@ -1,0 +1,19 @@
+---->>>> Front End <<<<<-----
+--> Use Tailwind Css for the project.
+--> Use axios for api calls.
+--> Design is responsive.
+--> created a delete function to delete a todo item.
+--> Use the below cammand to start the application.
+    --> cd frontend
+    --> npm i 
+    --> npm run start
+
+----->>>>> Back End <<<<<-------
+--> Use mysql for database
+--> Create a database totodatabase in the server.
+--> Created a config file that contain code for the connection to the server.
+--> If connected to the server successfully a table called tododata is created automatically.
+--> Use the below cammand to start the backend server.
+    --> cd backend
+    --> npm i
+    --> nodemon
